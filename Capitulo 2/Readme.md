@@ -6,5 +6,7 @@ Figura  2.24 Código para entrenar una red tipo Perceptron para que aprenda los 
 
 Figura  2.32 Código para filtrar una señal senoidal usando una red ADALINE
 
+Figura  2.34 Código para filtrar una señal de voz usando una red ADALINE
+
 Figura  2.36 Código para filtrar una señal senoidal usando una red ADALINE implementada en Arduino
 
