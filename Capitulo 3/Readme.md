@@ -1,8 +1,6 @@
 Códigos usados en los ejemplos del capítulo 3:
 Superando las dificultades con la propagación inversa en las redes multicapa superficiales
 
-Listado de códigos del capítulo: 
-
 Figura  3.17 Código para entrenar una red tipo MLP para que aprenda la función lógica XOR
 
 Figura  3.21 Código para entrenar una red tipo MLP para el aprendizaje de una función senoidal
