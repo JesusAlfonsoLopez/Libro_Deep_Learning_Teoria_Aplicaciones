@@ -9,4 +9,5 @@ Figura  2.32 Código para filtrar una señal senoidal usando una red ADALINE
 Figura  2.34 Código para filtrar una señal de voz usando una red ADALINE
 
 Figura  2.36 Código para filtrar una señal senoidal usando una red ADALINE implementada en Arduino
+        Tener en cuenta que se debe crear una carpeta con el nombre del archivo para que arduino lo reconozca
 
