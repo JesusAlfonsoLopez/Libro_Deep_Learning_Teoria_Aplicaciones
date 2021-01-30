@@ -1,5 +1,6 @@
-En esta carpeta se ubican los codigos usados en los ejemplos del capítulo 2:
-Los principios del aprendizaje profundo: redes monocapa
+En esta carpeta se ubican los codigos usados en los ejemplos del capítulo 2: Los principios del aprendizaje profundo: redes monocapa
+
+Listado de códigos del capítulo:
 
 Figura  2.15 Código para entrenar una red tipo Perceptron para que aprenda la función lógica AND
 
