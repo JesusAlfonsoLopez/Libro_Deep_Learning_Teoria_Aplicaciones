@@ -7,7 +7,11 @@ Figura  3.21 Código para entrenar una red tipo MLP para el aprendizaje de una f
 
 Figura  3.29 Código para entrenar una red tipo MLP para el aprendizaje de una función de dos variable
 
+Figura  3.31 Esquema en Simulink del experimento para la toma de datos de un sistema dinámico
+
 Figura  3.34 Código para entrenar una red tipo MLP para el aprendizaje de un sistema dinámico
+
+Figura  3.35 Esquema en Simulink para validar el modelo neuronal ya entrenado
 
 Figura  3.38 Código para entrenar una red tipo MLP para resolver el problema de clasificación del Iris
 
