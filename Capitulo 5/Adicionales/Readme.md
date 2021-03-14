@@ -12,14 +12,14 @@ Archivo de datos en formato de MATLAB con el data ser MNIST mnist.mat. Acceder a
 https://drive.google.com/file/d/1o79dFbqWahLbHUTMIeaRJ7s6Ho8aN9PW/view?usp=sharing
 
 
-Imágenes de entrenamiento del data set Cifar10. El archivo tiene las carpetas con las imágenes de las diferetes clases
+Imágenes de entrenamiento del data set Cifar10. El archivo tiene las carpetas con las imágenes de las diferentes clases
 cifar10Train.zip
 https://drive.google.com/file/d/1wWY24yv9Hca-sYLaJcWSPckM9gv9i3Ko/view?usp=sharing
 
-Imágenes de testeo del data set Cifar10. El archivo tiene las carpetas con las imágenes de las diferetes clases
+Imágenes de testeo del data set Cifar10. El archivo tiene las carpetas con las imágenes de las diferentes clases
 cifar10Test.zip
 https://drive.google.com/file/d/1wO2b4om2pSPYcX9TliBFwDocjZiRw-Y-/view?usp=sharing
 
-Imágenes del data set Flores. El archivo tiene las carpetas con las imágenes de las diferetes clases
+Imágenes del data set Flores. El archivo tiene las carpetas con las imágenes de las diferentes clases
 FloresData.zip
 https://drive.google.com/file/d/1uO9ZedrmS2nbm2ySBEy1N5J6z7vjLhUP/view?usp=sharing
