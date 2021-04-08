@@ -1,5 +1,7 @@
 # Libro Deep Learning Teoría Aplicaciones
-Autor: Jesús Alfonso López. 2021
+Autor: Jesús Alfonso López. 
+Alpha Editorial
+2021
 
 Email: jalopez@uao.edu.co
 
