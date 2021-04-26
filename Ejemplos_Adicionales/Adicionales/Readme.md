@@ -1,4 +1,4 @@
-En esta carpeta están archivos adicionales para que los códigos trabajen por ejemplo archivos con datos pregrabados en el Workspace o carpetas con los data sets que se usan en algunos ejemplos
+En esta carpeta están archivos adicionales para que los códigos trabajen por ejemplo, archivos con datos pregrabados en el Workspace o carpetas con los data sets que se usan en algunos ejemplos
 
 
 Archivo de datos en formato de MATLAB con el data ser FashionMNIST fashionmnist.mat. Acceder al archivo usando el siguiente enlace en Google Drive, por su tamaño no se pudo subir directamente a github
