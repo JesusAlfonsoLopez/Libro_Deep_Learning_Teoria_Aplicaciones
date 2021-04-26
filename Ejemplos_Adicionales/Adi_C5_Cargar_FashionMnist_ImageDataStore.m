@@ -26,7 +26,7 @@ load fashionmnist.mat;
 % de las clases que  componen el data set de fashion mnist para los datos de
 % entrenamiento 
 % El siguiente código recorre el data set previamente cargado
-% dependiente de digito crea una imagen que se guarda en
+% dependiente de la clase crea una imagen que se guarda en
 % la carpeta respectiva. Las carpetas donde se guardarán la imágenes 
 % debe ser previamente creadas
 Cont=0;
@@ -106,7 +106,7 @@ end;
 % Lo que se hace es crear una carpeta para cada uno de las clases que
 % componen el data set de fashion mnist para los datos de validación
 % El siguiente código recorre el data set previamente cargado
-% dependiente de digito crea una imagen que se guarda en
+% dependiente de la clase crea una imagen que se guarda en
 % la carpeta respectiva. Las carpetas donde se guardarán la imágenes 
 % debe ser previamente creadas
 Cont=0;
