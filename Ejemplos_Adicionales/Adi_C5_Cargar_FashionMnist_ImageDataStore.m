@@ -16,7 +16,7 @@
 %%
 clear
 close all
-%Se cargan los datos de la base de datos mnist
+%Se cargan los datos de la base de datos Fashion Mnist
 load fashionmnist.mat;
  
 %%
