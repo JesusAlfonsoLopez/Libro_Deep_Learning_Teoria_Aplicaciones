@@ -6,6 +6,6 @@ Adi_C5_Cargar_FashionMnist_ImageDataStore.m
 
 
 
-Archivo para entrena un red Convolucional con para aprender el data set Fashion Mnist
+Archivo para entrena un red Convolucional para aprender el data set Fashion Mnist
 
 Adi_C5_FashionMnist_CNN.m
