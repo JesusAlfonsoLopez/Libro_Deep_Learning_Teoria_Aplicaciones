@@ -1,4 +1,4 @@
-# Libro Deep Learning Teoría Aplicaciones
+# Libro Deep Learning Teoría y Aplicaciones
 Autor: Jesús Alfonso López. 
 
 Alpha Editorial. Primera Edición. 2021
